@@ -53,7 +53,7 @@ window.onscroll = () =>{
  
   // typed js
   const typed = new Typed('.multiple-text',{
-    strings : ['Sinh viên năm nhất' , 'Người Quảng Ngãi','Thanh Niên Độc Thân'],
+    strings : ['Sinh viên' , 'Người Quảng Ngãi'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
